@@ -89,3 +89,11 @@ Visit the deployed URL and upload a file.
 ## Use Case
 
 This project is provided as-is for personal or small-project use.
+
+## Screenshots
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/3a524e3f-417f-4b5a-b518-68cada2218d0" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/675946f4-756b-4b7d-a1de-bc0f38d83702" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/1a8212e1-2585-4847-a92b-4097190029bb" />
+<img width="1500" height="300" alt="image" src="https://github.com/user-attachments/assets/65868e53-ad23-4c1b-a347-b79bb80e450f" />
+
+
